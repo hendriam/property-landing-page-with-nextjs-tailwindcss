@@ -33,3 +33,5 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+If you want the figma file of [this project](https://www.figma.com/community/file/1267008237123431229/Real-Estate), please open this link
